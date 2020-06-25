@@ -4,3 +4,5 @@ print("Colocando o meu Marcos")
 print("Testando uma evolução de código")
 
 print("Linha Nova")
+
+print("mudamos ao mesmo tempo")
